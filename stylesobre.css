@@ -1,0 +1,58 @@
+.group-2,
+.group-2 * {
+  box-sizing: border-box;
+}
+.group-2 {
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.desktop-2 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 2199px;
+  top: 332px;
+  overflow: hidden;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.desktop-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.sobre-1 {
+  width: 522px;
+  height: 1024px;
+  position: absolute;
+  left: 918px;
+  top: 0px;
+}
+.middlemist {
+  color: #107070;
+  text-align: left;
+  font: 700 96px "Raleway", sans-serif;
+  position: absolute;
+  left: 203px;
+  top: 88px;
+  width: 773px;
+  height: 144px;
+}
+.nosso-site-tem-como-objetivo-apresentar-como-o-mundo-das-plantas-extenso-e-interessante-visto-que-um-assunto-pouco-comentado-sobre-sua-import-ncia-aqui-trazemos-tudo-o-que-voc-s-leitores-precisam-saber-sobre-as-plantas-e-suas-caracter-sticas-al-m-de-seus-benef-cios-para-a-sua-sa-de-e-seu-ambiente {
+  color: #000000;
+  text-align: center;
+  font: 400 48px "Manuale", sans-serif;
+  position: absolute;
+  left: 45px;
+  top: 253px;
+  width: 799px;
+  height: 656px;
+}
